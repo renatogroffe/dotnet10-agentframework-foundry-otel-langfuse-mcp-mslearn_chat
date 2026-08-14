@@ -3,6 +3,10 @@ Exemplo em .NET 10 de Console Application que faz uso do Microsoft Agent Framewo
 
 Deixo aqui meus agradecimentos ao amigo [**Daniel Dias**](https://github.com/dassump/) que indicou essa ótima ferramenta.
 
-O projeto Langfuse: **https://github.com/langfuse/langfuse**
+Interação na aplicação:
 
-Documentação: **https://langfuse.com/docs/observability/get-started**
+![Aplicação](img/consoleapp-01.png)
+
+Trace gerado:
+
+![Trace no Langfuse](img/langfuse-01.png)
